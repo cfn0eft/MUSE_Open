@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-28T03:56:53+09:00",
+  "updatedAt": "2026-11-28T06:56:40+09:00",
   "services": [
-    { "name": "Muse", "remainingPercent": 91, "resetAt": "2026-12-03T21:55:00+09:00", "note": "追加トークン: 2B 残り（0%使用）" }
+    { "name": "Muse", "remainingPercent": 90, "resetAt": "2026-12-03T21:55:00+09:00", "note": "追加トークン: 2B 残り（0%使用）" }
   ]
 }
